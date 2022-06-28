@@ -4,6 +4,16 @@ body {
   
 }
 
+a {
+    text-decoration: none;
+    font-size: 35px;
+    color: black;
+}
+
+a:hover {
+    color:aquamarine
+}
+
 main {
     width: 500px;
     border: 1px solid black;
