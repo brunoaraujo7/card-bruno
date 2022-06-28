@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    background-color: #2ff8ffcb;
+  
+}
+
+main {
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+header {
+    background-image: url(piratas2.jpg);
+    background-size: cover;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translatey(-50%);
+}
